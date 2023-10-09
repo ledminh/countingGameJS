@@ -4,7 +4,7 @@ This is a small game created using vanilla JavaScript. The game's goal is simple
 
 ## Screenshot
 
-![App Screenshot](./)
+![App Screenshot](./counting-game-screenshot.jpg)
 
 ## How to Play
 
